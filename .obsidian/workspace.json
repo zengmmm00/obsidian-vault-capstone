@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "选题.md",
+                "file": "选题/选题.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "选题.md",
+                "file": "选题/选题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "选题.md",
+                "file": "选题/选题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "选题.md"
+                "file": "选题/选题.md"
               }
             }
           }
@@ -146,19 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b95fec4cbae5d23",
+  "active": "4464a248d4c4a1da",
   "lastOpenFiles": [
+    "Untitled",
+    "选题",
     "assets/Pasted image 20230703130222.png.md",
-    "选题.md",
-    "assets/Pasted image 20230703151753.png",
-    "assets/Pasted image 20230703151741.png",
-    "assets/Pasted image 20230703150612.png",
-    "assets/Pasted image 20230703150540.png",
-    "assets/Pasted image 20230703112012.png",
-    "assets/Pasted image 20230703130222.png",
-    "assets/Pasted image 20230703135256.png",
-    "assets/Pasted image 20230703130213.png",
-    "assets/Pasted image 20230703134437.png",
-    "assets"
+    "选题/选题.md",
+    "选题/images/Pasted image 20230703151753.png",
+    "选题/images/Pasted image 20230703151741.png",
+    "选题/images/Pasted image 20230703150612.png",
+    "选题/images/Pasted image 20230703150540.png",
+    "选题/images/Pasted image 20230703112012.png",
+    "选题/images/Pasted image 20230703130222.png",
+    "选题/images/Pasted image 20230703135256.png",
+    "选题/images/Pasted image 20230703130213.png",
+    "选题/images/Pasted image 20230703134437.png",
+    "选题/images"
   ]
 }
