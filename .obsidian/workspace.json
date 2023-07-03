@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "185961fba5cd1fb7",
+        "id": "8c9f489a03dd80e7",
         "type": "tabs",
         "children": [
           {
-            "id": "f050db9a4533f0bb",
+            "id": "5b95fec4cbae5d23",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "选题.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "选题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "选题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "选题.md"
+              }
             }
           }
         ]
@@ -138,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4464a248d4c4a1da",
+  "active": "5b95fec4cbae5d23",
   "lastOpenFiles": [
     "选题.md",
     "选题[img]/Pasted image 20230703112012.png",
