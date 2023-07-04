@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "选题/选题.md",
+                "file": "文生图模型调研/文生图模型调研.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "选题/选题.md",
+                "file": "文生图模型调研/文生图模型调研.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "选题/选题.md",
+                "file": "文生图模型调研/文生图模型调研.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "选题/选题.md"
+                "file": "文生图模型调研/文生图模型调研.md"
               }
             }
           }
@@ -146,12 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4464a248d4c4a1da",
+  "active": "5b95fec4cbae5d23",
   "lastOpenFiles": [
+    "选题/选题.md",
     "Untitled",
     "选题",
     "assets/Pasted image 20230703130222.png.md",
-    "选题/选题.md",
     "选题/images/Pasted image 20230703151753.png",
     "选题/images/Pasted image 20230703151741.png",
     "选题/images/Pasted image 20230703150612.png",
