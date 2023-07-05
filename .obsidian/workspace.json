@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7983cb66477149e1",
@@ -146,11 +147,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4464a248d4c4a1da",
+  "active": "5b95fec4cbae5d23",
   "lastOpenFiles": [
-    "选题/选题.md",
-    "选题/images/Pasted image 20230703130222.png",
+    "文生图模型调研/文生图模型样例.md",
     "文生图模型调研/文生图模型调研.md",
+    "选题/选题.md",
+    "模型调研.pdf",
+    "选题/创建人物平台.md",
+    "选题/images/Pasted image 20230703130222.png",
     "Untitled",
     "选题",
     "assets/Pasted image 20230703130222.png.md",
