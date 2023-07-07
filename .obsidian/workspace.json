@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文生图模型调研/文生图模型样例.md",
+                "file": "文生图模型调研/文生图模型调研.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2530276b7ee57804",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "文本配音/文本配音模型调研.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文生图模型调研/文生图模型样例.md",
+                "file": "文本配音/文本配音模型调研.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文生图模型调研/文生图模型样例.md",
+                "file": "文本配音/文本配音模型调研.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文生图模型调研/文生图模型样例.md"
+                "file": "文本配音/文本配音模型调研.md"
               }
             }
           }
@@ -146,15 +159,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "384b083eb1b97673",
+  "active": "2530276b7ee57804",
   "lastOpenFiles": [
     "文生图模型调研/文生图模型调研.md",
+    "文本配音/文本配音模型调研.md",
+    "文本配音",
     "文生图模型调研/文生图模型样例.md",
     "选题/选题.md",
     "模型调研.pdf",
     "选题/创建人物平台.md",
     "选题/images/Pasted image 20230703130222.png",
-    "Untitled",
     "选题",
     "assets/Pasted image 20230703130222.png.md",
     "选题/images/Pasted image 20230703151753.png",
