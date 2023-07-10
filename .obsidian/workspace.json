@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "选题/健康饮食.md",
+                "file": "文生图模型调研/文生图模型调研.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "选题/健康饮食.md",
+                "file": "文生图模型调研/文生图模型调研.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "选题/健康饮食.md"
+                "file": "文生图模型调研/文生图模型调研.md"
               }
             }
           }
